@@ -1,7 +1,6 @@
 {
-  "parser_version": "77a3747266f4d621d0757825e6b11edcbf991ca5",
-  "location": null,
   "lang": "rust",
   "url": "https://github.com/tree-sitter/tree-sitter-rust",
-  "semver": false
+  "semver": false,
+  "parser_version": "77a3747266f4d621d0757825e6b11edcbf991ca5"
 }
